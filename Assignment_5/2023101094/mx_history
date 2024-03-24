@@ -1,0 +1,9 @@
+LOG::add_matrix 1
+LOG::mult_matrix 1
+LOG::determinant 0
+LOG::` 3
+LOG::determinant 0
+LOG::determinant 0
+LOG::determinant 0
+LOG::history
+LOG::scalar_mult_matrix 0
